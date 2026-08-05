@@ -1,7 +1,7 @@
 {
-  "version": "TEST 1.0.0",
-  "isMandatory": true,
-  "downloadUrl": "https://github.com/mertt5467/lounge-launcher-database/releases/download/lounge-launcher-updates/lounge-patch-launcher-vTEST.1.0.0.exe",
+  "version": "1.0.1-TEST",
+  "isMandatory": false,
+  "downloadUrl": "https://github.com/mertt5467/lounge-launcher-database/releases/download/lounge-launcher-updates/lounge-patch-launcher-v1.0.1-TEST.exe",
   "description": "TEST",
-  "date": "2026-08-05T16:54:52.081Z"
+  "date": "2026-08-05T19:18:43.454Z"
 }
